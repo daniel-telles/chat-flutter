@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234357527887",
+    "project_id": "chatcod3r-49b19",
+    "storage_bucket": "chatcod3r-49b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234357527887:android:b2357f2a3a499a82f4213a",
+        "android_client_info": {
+          "package_name": "br.com.cod3r.chat.daniel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234357527887-s05o29sd4gomah6r4871jm2k29dvrlr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5lA68n5dIQJBXiSe7REOXPBQujJVgVTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234357527887-s05o29sd4gomah6r4871jm2k29dvrlr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
